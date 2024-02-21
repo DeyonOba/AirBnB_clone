@@ -12,5 +12,3 @@ Type ./console.py to run the console
 Type 'help' for more information about how to use the console. The help command will fetch different commands, type help Cmd to learn how to use each command
 Perform your CRUD activities in the console
 Use quit, EOF, or ctrl+ d to exit the console
-
-## Precisely for Bilal
